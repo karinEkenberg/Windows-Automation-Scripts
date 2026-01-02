@@ -1,0 +1,20 @@
+# User-specific / Secrets
+.env
+*.user
+*.suo
+
+# Windows System Files
+Thumbs.db
+desktop.ini
+$RECYCLE.BIN/
+
+# Development & Build Artifacts
+node_modules/
+bin/
+obj/
+*.log
+*.tmp
+
+# IDE Settings
+.vscode/
+.idea/
