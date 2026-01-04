@@ -1,0 +1,1 @@
+@powershell -ExecutionPolicy Bypass -File "%~dp0scripts\push.ps1" %1
